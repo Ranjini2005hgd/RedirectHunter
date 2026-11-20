@@ -1,0 +1,49 @@
+{
+  "name": "redirecthunter",
+  "version": "1.0.0",
+  "description": "RedirectHunter is a powerful open redirect vulnerability scanner that helps you quickly identify and mitigate potential security risks in your web applications.",
+  "homepage": "https://github.com/karthi-the-hacker/RedirectHunter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "node --test test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karthi-the-hacker/RedirectHunter.git"
+  },
+  "bin": {
+    "redirecthunter": "./index.js",
+    "RedirectHunter": "./index.js"
+  },
+  "readme": "README.md",
+  "author": {
+    "name": "karthikeyan V (karthithehacker)",
+    "email": "contact@karthithehacker.com",
+    "url": "https://karthithehacker.com"
+  },
+  "keywords": [
+    "Open Redirect",
+    "openredirect",
+    "recon",
+    "thinkific Open Redirect",
+    "bugbounty tool",
+    "automation",
+    "websecurity",
+    "bugbounty",
+    "bugbountytool",
+    "OWASP",
+    "pentesting",
+    "webpentesting",
+    "karthithehacker"
+  ],
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+*.backup
+results.json
+svyasa-results.json
+local-report.json
+local-vulnerable-results.json
+local-vulnerable-report.json
