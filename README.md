@@ -2,11 +2,6 @@
 
 \<p align="center">   \<img src="images/banner.png" alt="RedirectHunter - Developed by Ranjini U" width="100%"> \</p>
 
-## Badges
-
-\
-
-![Uploading RedirectHunter Cybersecurity Banner.png…]()
 
 ## License
 
